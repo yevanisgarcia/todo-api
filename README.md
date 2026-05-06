@@ -3,7 +3,7 @@
 This is a REST API built with FastAPI and SQLite.
 
 ## Features
-- Create, Read, Update, Delete Todos
+- Create, Read, Update, Delete TODOs
 - Toggle completion status
 - Filtering and pagination
 - Timestamps (created_at, updated_at)
