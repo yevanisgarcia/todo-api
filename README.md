@@ -13,6 +13,16 @@ This is a REST API built with FastAPI and SQLite.
 - SQLAlchemy
 - SQLite
 
+## Install dependencies
+
+```bash
+pip install fastapi uvicorn sqlalchemy
+
+Optional but recommended:
+
+pip install python-dotenv
+```
+
 ## Run locally
 
 ```bash
